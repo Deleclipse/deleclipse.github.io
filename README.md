@@ -32,7 +32,9 @@ Once you are satisfied with your adjustments, click "Export Edited Save" in the 
 
 Note disclaimer "Important: Any miners, extractors, or pumps already built on changed nodes will no longer match the new resource type and will need to be manually reconfigured in-game. Fluid pipeline networks connected to changed well nodes may also carry the wrong resource until flushed."
 
-This will create an UploadedFileName_Edited.sav file in you default download location.
+Click "Export anyway" after reviewing the changes and disclaimer.
+
+This will download an UploadedFileName_Edited.sav file in you default download location.
 
 Copy and paste this _Edited.sav file into you Save Games Location (see above).
 
