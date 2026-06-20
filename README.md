@@ -1,6 +1,6 @@
 https://deleclipse.github.io/ is a tool to edit your Satisfactory save files nodes and wells, type and purity.
 
-Important note: This tool does not work with maps that have "Default" Resource Node Randomization. 
+Important note: This tool does not work with saves that have "Default" Resource Node Randomization. 
 
 You must have - Game Modes > Resource Node Randomization > Random - for this tool to work on your save file.
 
@@ -10,7 +10,7 @@ To begin, navigate to https://deleclipse.github.io/
 
 Click "Open .sav"
 
-Navigate to you Satisfactory Save Games location,
+Navigate to your Satisfactory Save Games location,
 
 (C:\Users\Username\AppData\Local\FactoryGame\Saved\SaveGames)
 
@@ -36,7 +36,7 @@ Click "Export anyway" after reviewing the changes and disclaimer.
 
 This will download an UploadedFileName_Edited.sav file in you default download location.
 
-Copy and paste this _Edited.sav file into you Save Games Location (see above).
+Copy and paste this _Edited.sav file into you Save Games location (see above).
 
 ---
 
