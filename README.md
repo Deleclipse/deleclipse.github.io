@@ -12,7 +12,9 @@ Click "Open .sav"
 
 Navigate to you Satisfactory Save Games location,
 
-(C:\Users\Username\AppData\Local\FactoryGame\Saved\SaveGames)(%LOCALAPPDATA%\FactoryGame\Saved\SaveGames\)
+(C:\Users\Username\AppData\Local\FactoryGame\Saved\SaveGames)
+
+(%LOCALAPPDATA%\FactoryGame\Saved\SaveGames\)
 
 Select the save you wish to edit, and click Open.
 
